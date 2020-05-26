@@ -1,0 +1,38 @@
+body {
+    background-color: cyan;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: pink;
+}
+
+header {
+    padding: 80px;
+    height: 80px;
+    font-size: 40px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+}
+
+#contents{
+    padding: 140px;
+    font-size: 20px;
+    height : 400px;
+    
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    font-size: 19px;
+    background-color : gray;
+    color: white;
+    
+}

@@ -22,10 +22,11 @@ nav {
 }
 
 #contents{
+    background-image : url("https://github.com/Takuan0321/css_sample_04/blob/master/images/A52170B2-0FFE-48BE-808E-C7399D11FB5E.jpeg");
     padding: 140px;
     font-size: 20px;
     height : 400px;
-    background-image : url("https://github.com/Takuan0321/css_sample_04/blob/master/images/A52170B2-0FFE-48BE-808E-C7399D11FB5E.jpeg");
+    
 }
 
 footer {

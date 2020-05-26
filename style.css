@@ -1,11 +1,11 @@
 body {
-    background-color: cyan;
+    background-image : url("images/BDDB0036-6F53-41C8-876F-59154DB48640.jpeg");
 }
 
 #container {
     width: 800px;
     margin: auto;
-    background-color: pink;
+    background-image : url("images/A52170B2-0FFE-48BE-808E-C7399D11FB5E.jpeg");
 }
 
 header {
@@ -22,14 +22,12 @@ nav {
 }
 
 #contents{
-    background-image : url("https://github.com/Takuan0321/css_sample_04/blob/master/images/A52170B2-0FFE-48BE-808E-C7399D11FB5E.jpeg");
     padding: 140px;
     font-size: 20px;
     height : 400px;
-    
 }
-
 footer {
+    background-image : url("images/F1CDFDF6-507F-4BE1-8EC1-A761CBF8991F.jpeg");
     padding: 40px;
     height: 40px;
     font-size: 19px;
